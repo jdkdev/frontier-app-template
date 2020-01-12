@@ -16,7 +16,7 @@
     "@rollup/plugin-alias": "^3.0.0",
     "@rollup/plugin-node-resolve": "^6.0.0",
     "@rollup/plugin-replace": "^2.3.0",
-    "@sveltech/routify": "1.0.1-11",
+    "@sveltech/routify": "^1.0.1-29",
     "autoprefixer": "^9.7.3",
     "date-fns": "^2.8.1",
     "frontier-components": "github:jdkdev/frontier-components",
